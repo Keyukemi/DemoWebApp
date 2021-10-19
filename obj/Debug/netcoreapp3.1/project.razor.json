@@ -14435,6 +14435,11 @@
       "FilePath": "c:\\Users\\hp\\CSharp_Files\\DemoWebApp\\Views\\Shared\\Error.cshtml",
       "TargetPath": "Views\\Shared\\Error.cshtml",
       "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\hp\\CSharp_Files\\DemoWebApp\\Views\\Arithimetic\\Quadratic.cshtml",
+      "TargetPath": "Views\\Arithimetic\\Quadratic.cshtml",
+      "FileKind": "mvc"
     }
   ],
   "SerializationFormat": "0.2"

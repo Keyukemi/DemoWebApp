@@ -35,3 +35,4 @@ C:\Users\hp\CSharp_Files\DemoWebApp\obj\Debug\netcoreapp3.1\DemoWebApp.dll
 C:\Users\hp\CSharp_Files\DemoWebApp\obj\Debug\netcoreapp3.1\DemoWebApp.pdb
 C:\Users\hp\CSharp_Files\DemoWebApp\obj\Debug\netcoreapp3.1\DemoWebApp.genruntimeconfig.cache
 C:\Users\hp\CSharp_Files\DemoWebApp\obj\Debug\netcoreapp3.1\DemoWebApp.csproj.CopyComplete
+C:\Users\hp\CSharp_Files\DemoWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Arithimetic\Quadratic.cshtml.g.cs

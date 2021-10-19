@@ -50,7 +50,7 @@ namespace DemoWebApp
             {
                 endpoints.MapControllerRoute(
                     name: "default",
-                    pattern: "{controller=Home}/{action=Index}/{id?}");
+                    pattern: "{controller=Arithimetic}/{action=Quadratic}/{id?}");
             });
         }
     }
