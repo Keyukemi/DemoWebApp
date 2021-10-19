@@ -1,0 +1,15 @@
+@{
+    ViewData["Title"] = "Quadratic Calculator";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Solve a Quadratic Equation</h1>
+    
+    <form asp-controller="Arithimetic" asp-action="Quadratic">
+        <input required type="number" placeholder="Enter a Value for a" >
+        <input required type="number" placeholder="Enter a Value for b" >
+        <input required type="number" placeholder="Enter a Value for c" >
+
+        <button type="submit"> Calculate</button>
+    </form>
+</div>
